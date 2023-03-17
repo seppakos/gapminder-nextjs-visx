@@ -1,0 +1,2882 @@
+[
+  {
+    "PlayerID": "PL001",
+    "Timestamp": "2023-03-01 8:42",
+    "Fatigue": 3,
+    "Sleep": 4,
+    "Soreness": 2,
+    "Stress": 2,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL001",
+    "Timestamp": "2023-03-02 8:16",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 5,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL001",
+    "Timestamp": "2023-03-03 7:38",
+    "Fatigue": 2,
+    "Sleep": 1,
+    "Soreness": 2,
+    "Stress": 3,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL001",
+    "Timestamp": "2023-03-04 8:28",
+    "Fatigue": 3,
+    "Sleep": 3,
+    "Soreness": 4,
+    "Stress": 1,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL001",
+    "Timestamp": "2023-03-05 8:21",
+    "Fatigue": 3,
+    "Sleep": 4,
+    "Soreness": 1,
+    "Stress": 1,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL001",
+    "Timestamp": "2023-03-06 7:39",
+    "Fatigue": 5,
+    "Sleep": 4,
+    "Soreness": 2,
+    "Stress": 3,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL001",
+    "Timestamp": "2023-03-07 7:30",
+    "Fatigue": 2,
+    "Sleep": 4,
+    "Soreness": 3,
+    "Stress": 1,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL001",
+    "Timestamp": "2023-03-08 7:10",
+    "Fatigue": 2,
+    "Sleep": 1,
+    "Soreness": 2,
+    "Stress": 1,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL001",
+    "Timestamp": "2023-03-09 7:48",
+    "Fatigue": 1,
+    "Sleep": 5,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL001",
+    "Timestamp": "2023-03-10 8:35",
+    "Fatigue": 3,
+    "Sleep": 4,
+    "Soreness": 1,
+    "Stress": 5,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL001",
+    "Timestamp": "2023-03-11 7:27",
+    "Fatigue": 5,
+    "Sleep": 2,
+    "Soreness": 1,
+    "Stress": 3,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL001",
+    "Timestamp": "2023-03-12 8:16",
+    "Fatigue": 3,
+    "Sleep": 5,
+    "Soreness": 5,
+    "Stress": 2,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL001",
+    "Timestamp": "2023-03-13 7:40",
+    "Fatigue": 5,
+    "Sleep": 1,
+    "Soreness": 1,
+    "Stress": 1,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL001",
+    "Timestamp": "2023-03-14 7:54",
+    "Fatigue": 4,
+    "Sleep": 3,
+    "Soreness": 4,
+    "Stress": 2,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL001",
+    "Timestamp": "2023-03-15 8:53",
+    "Fatigue": 4,
+    "Sleep": 1,
+    "Soreness": 4,
+    "Stress": 3,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL001",
+    "Timestamp": "2023-03-16 7:23",
+    "Fatigue": 3,
+    "Sleep": 4,
+    "Soreness": 5,
+    "Stress": 3,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL002",
+    "Timestamp": "2023-03-01 8:15",
+    "Fatigue": 3,
+    "Sleep": 5,
+    "Soreness": 3,
+    "Stress": 5,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL002",
+    "Timestamp": "2023-03-02 8:31",
+    "Fatigue": 1,
+    "Sleep": 5,
+    "Soreness": 3,
+    "Stress": 2,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL002",
+    "Timestamp": "2023-03-03 8:52",
+    "Fatigue": 3,
+    "Sleep": 2,
+    "Soreness": 2,
+    "Stress": 4,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL002",
+    "Timestamp": "2023-03-04 7:44",
+    "Fatigue": 4,
+    "Sleep": 1,
+    "Soreness": 1,
+    "Stress": 3,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL002",
+    "Timestamp": "2023-03-05 7:19",
+    "Fatigue": 1,
+    "Sleep": 4,
+    "Soreness": 4,
+    "Stress": 2,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL002",
+    "Timestamp": "2023-03-06 7:28",
+    "Fatigue": 2,
+    "Sleep": 2,
+    "Soreness": 4,
+    "Stress": 5,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL002",
+    "Timestamp": "2023-03-07 7:56",
+    "Fatigue": 3,
+    "Sleep": 4,
+    "Soreness": 2,
+    "Stress": 3,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL002",
+    "Timestamp": "2023-03-08 7:56",
+    "Fatigue": 3,
+    "Sleep": 2,
+    "Soreness": 3,
+    "Stress": 3,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL002",
+    "Timestamp": "2023-03-09 7:15",
+    "Fatigue": 5,
+    "Sleep": 4,
+    "Soreness": 5,
+    "Stress": 5,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL002",
+    "Timestamp": "2023-03-10 8:28",
+    "Fatigue": 4,
+    "Sleep": 3,
+    "Soreness": 1,
+    "Stress": 4,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL002",
+    "Timestamp": "2023-03-11 8:41",
+    "Fatigue": 4,
+    "Sleep": 1,
+    "Soreness": 2,
+    "Stress": 4,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL002",
+    "Timestamp": "2023-03-12 7:18",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 5,
+    "Stress": 3,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL002",
+    "Timestamp": "2023-03-13 7:27",
+    "Fatigue": 1,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 4,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL002",
+    "Timestamp": "2023-03-14 7:51",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 3,
+    "Stress": 2,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL002",
+    "Timestamp": "2023-03-15 7:50",
+    "Fatigue": 5,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 3,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL002",
+    "Timestamp": "2023-03-16 8:20",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL003",
+    "Timestamp": "2023-03-01 7:35",
+    "Fatigue": 2,
+    "Sleep": 5,
+    "Soreness": 5,
+    "Stress": 2,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL003",
+    "Timestamp": "2023-03-02 7:54",
+    "Fatigue": 2,
+    "Sleep": 4,
+    "Soreness": 2,
+    "Stress": 2,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL003",
+    "Timestamp": "2023-03-03 7:59",
+    "Fatigue": 4,
+    "Sleep": 4,
+    "Soreness": 1,
+    "Stress": 2,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL003",
+    "Timestamp": "2023-03-04 7:37",
+    "Fatigue": 2,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 1,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL003",
+    "Timestamp": "2023-03-05 8:59",
+    "Fatigue": 2,
+    "Sleep": 3,
+    "Soreness": 3,
+    "Stress": 1,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL003",
+    "Timestamp": "2023-03-06 8:18",
+    "Fatigue": 4,
+    "Sleep": 3,
+    "Soreness": 1,
+    "Stress": 4,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL003",
+    "Timestamp": "2023-03-07 8:46",
+    "Fatigue": 4,
+    "Sleep": 3,
+    "Soreness": 5,
+    "Stress": 5,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL003",
+    "Timestamp": "2023-03-08 7:33",
+    "Fatigue": 5,
+    "Sleep": 1,
+    "Soreness": 1,
+    "Stress": 4,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL003",
+    "Timestamp": "2023-03-09 7:26",
+    "Fatigue": 3,
+    "Sleep": 4,
+    "Soreness": 3,
+    "Stress": 1,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL003",
+    "Timestamp": "2023-03-10 7:37",
+    "Fatigue": 2,
+    "Sleep": 5,
+    "Soreness": 1,
+    "Stress": 1,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL003",
+    "Timestamp": "2023-03-11 7:33",
+    "Fatigue": 1,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 5,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL003",
+    "Timestamp": "2023-03-12 8:45",
+    "Fatigue": 1,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 1,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL003",
+    "Timestamp": "2023-03-13 8:23",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 2,
+    "Stress": 1,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL003",
+    "Timestamp": "2023-03-14 8:28",
+    "Fatigue": 1,
+    "Sleep": 4,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL003",
+    "Timestamp": "2023-03-15 8:47",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 4,
+    "Stress": 5,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL003",
+    "Timestamp": "2023-03-16 8:12",
+    "Fatigue": 4,
+    "Sleep": 5,
+    "Soreness": 2,
+    "Stress": 2,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL004",
+    "Timestamp": "2023-03-01 7:22",
+    "Fatigue": 4,
+    "Sleep": 5,
+    "Soreness": 1,
+    "Stress": 5,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL004",
+    "Timestamp": "2023-03-02 7:23",
+    "Fatigue": 3,
+    "Sleep": 5,
+    "Soreness": 3,
+    "Stress": 3,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL004",
+    "Timestamp": "2023-03-03 8:10",
+    "Fatigue": 2,
+    "Sleep": 1,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL004",
+    "Timestamp": "2023-03-04 7:14",
+    "Fatigue": 1,
+    "Sleep": 5,
+    "Soreness": 1,
+    "Stress": 5,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL004",
+    "Timestamp": "2023-03-05 8:43",
+    "Fatigue": 3,
+    "Sleep": 2,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL004",
+    "Timestamp": "2023-03-06 8:48",
+    "Fatigue": 2,
+    "Sleep": 2,
+    "Soreness": 3,
+    "Stress": 5,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL004",
+    "Timestamp": "2023-03-07 8:48",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 5,
+    "Stress": 5,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL004",
+    "Timestamp": "2023-03-08 8:27",
+    "Fatigue": 5,
+    "Sleep": 2,
+    "Soreness": 1,
+    "Stress": 4,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL004",
+    "Timestamp": "2023-03-09 7:22",
+    "Fatigue": 2,
+    "Sleep": 3,
+    "Soreness": 3,
+    "Stress": 2,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL004",
+    "Timestamp": "2023-03-10 8:45",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 3,
+    "Stress": 3,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL004",
+    "Timestamp": "2023-03-11 8:46",
+    "Fatigue": 2,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 5,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL004",
+    "Timestamp": "2023-03-12 8:46",
+    "Fatigue": 4,
+    "Sleep": 2,
+    "Soreness": 5,
+    "Stress": 5,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL004",
+    "Timestamp": "2023-03-13 8:43",
+    "Fatigue": 2,
+    "Sleep": 3,
+    "Soreness": 4,
+    "Stress": 5,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL004",
+    "Timestamp": "2023-03-14 7:37",
+    "Fatigue": 5,
+    "Sleep": 2,
+    "Soreness": 3,
+    "Stress": 2,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL004",
+    "Timestamp": "2023-03-15 7:19",
+    "Fatigue": 2,
+    "Sleep": 4,
+    "Soreness": 2,
+    "Stress": 1,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL004",
+    "Timestamp": "2023-03-16 7:47",
+    "Fatigue": 4,
+    "Sleep": 5,
+    "Soreness": 3,
+    "Stress": 2,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL005",
+    "Timestamp": "2023-03-01 8:35",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 1,
+    "Stress": 5,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL005",
+    "Timestamp": "2023-03-02 8:37",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 4,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL005",
+    "Timestamp": "2023-03-03 7:21",
+    "Fatigue": 5,
+    "Sleep": 5,
+    "Soreness": 2,
+    "Stress": 4,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL005",
+    "Timestamp": "2023-03-04 7:26",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 1,
+    "Stress": 1,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL005",
+    "Timestamp": "2023-03-05 7:50",
+    "Fatigue": 1,
+    "Sleep": 3,
+    "Soreness": 2,
+    "Stress": 4,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL005",
+    "Timestamp": "2023-03-06 7:51",
+    "Fatigue": 2,
+    "Sleep": 4,
+    "Soreness": 5,
+    "Stress": 1,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL005",
+    "Timestamp": "2023-03-07 7:39",
+    "Fatigue": 4,
+    "Sleep": 1,
+    "Soreness": 2,
+    "Stress": 3,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL005",
+    "Timestamp": "2023-03-08 7:34",
+    "Fatigue": 2,
+    "Sleep": 3,
+    "Soreness": 1,
+    "Stress": 2,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL005",
+    "Timestamp": "2023-03-09 8:48",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 2,
+    "Stress": 2,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL005",
+    "Timestamp": "2023-03-10 8:43",
+    "Fatigue": 5,
+    "Sleep": 4,
+    "Soreness": 1,
+    "Stress": 5,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL005",
+    "Timestamp": "2023-03-11 8:41",
+    "Fatigue": 3,
+    "Sleep": 4,
+    "Soreness": 3,
+    "Stress": 4,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL005",
+    "Timestamp": "2023-03-12 8:10",
+    "Fatigue": 3,
+    "Sleep": 5,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL005",
+    "Timestamp": "2023-03-13 8:50",
+    "Fatigue": 3,
+    "Sleep": 2,
+    "Soreness": 2,
+    "Stress": 4,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL005",
+    "Timestamp": "2023-03-14 8:18",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 2,
+    "Stress": 1,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL005",
+    "Timestamp": "2023-03-15 7:54",
+    "Fatigue": 2,
+    "Sleep": 5,
+    "Soreness": 2,
+    "Stress": 1,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL005",
+    "Timestamp": "2023-03-16 8:48",
+    "Fatigue": 2,
+    "Sleep": 4,
+    "Soreness": 3,
+    "Stress": 3,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL006",
+    "Timestamp": "2023-03-01 7:15",
+    "Fatigue": 5,
+    "Sleep": 5,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL006",
+    "Timestamp": "2023-03-02 8:38",
+    "Fatigue": 5,
+    "Sleep": 4,
+    "Soreness": 3,
+    "Stress": 2,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL006",
+    "Timestamp": "2023-03-03 8:30",
+    "Fatigue": 4,
+    "Sleep": 4,
+    "Soreness": 5,
+    "Stress": 3,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL006",
+    "Timestamp": "2023-03-04 8:59",
+    "Fatigue": 2,
+    "Sleep": 2,
+    "Soreness": 3,
+    "Stress": 5,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL006",
+    "Timestamp": "2023-03-05 8:54",
+    "Fatigue": 1,
+    "Sleep": 3,
+    "Soreness": 2,
+    "Stress": 5,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL006",
+    "Timestamp": "2023-03-06 7:38",
+    "Fatigue": 5,
+    "Sleep": 1,
+    "Soreness": 2,
+    "Stress": 2,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL006",
+    "Timestamp": "2023-03-07 8:28",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 3,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL006",
+    "Timestamp": "2023-03-08 7:58",
+    "Fatigue": 1,
+    "Sleep": 4,
+    "Soreness": 5,
+    "Stress": 1,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL006",
+    "Timestamp": "2023-03-09 8:46",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 4,
+    "Stress": 5,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL006",
+    "Timestamp": "2023-03-10 7:12",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL006",
+    "Timestamp": "2023-03-11 7:20",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 2,
+    "Stress": 1,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL006",
+    "Timestamp": "2023-03-12 7:59",
+    "Fatigue": 2,
+    "Sleep": 3,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL006",
+    "Timestamp": "2023-03-13 7:47",
+    "Fatigue": 2,
+    "Sleep": 3,
+    "Soreness": 3,
+    "Stress": 2,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL006",
+    "Timestamp": "2023-03-14 7:48",
+    "Fatigue": 4,
+    "Sleep": 2,
+    "Soreness": 5,
+    "Stress": 5,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL006",
+    "Timestamp": "2023-03-15 7:42",
+    "Fatigue": 3,
+    "Sleep": 3,
+    "Soreness": 1,
+    "Stress": 2,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL006",
+    "Timestamp": "2023-03-16 7:18",
+    "Fatigue": 2,
+    "Sleep": 4,
+    "Soreness": 3,
+    "Stress": 3,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL007",
+    "Timestamp": "2023-03-01 8:48",
+    "Fatigue": 3,
+    "Sleep": 2,
+    "Soreness": 3,
+    "Stress": 3,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL007",
+    "Timestamp": "2023-03-02 7:25",
+    "Fatigue": 1,
+    "Sleep": 4,
+    "Soreness": 2,
+    "Stress": 1,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL007",
+    "Timestamp": "2023-03-03 7:45",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 1,
+    "Stress": 5,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL007",
+    "Timestamp": "2023-03-04 8:48",
+    "Fatigue": 2,
+    "Sleep": 4,
+    "Soreness": 3,
+    "Stress": 1,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL007",
+    "Timestamp": "2023-03-05 8:54",
+    "Fatigue": 3,
+    "Sleep": 2,
+    "Soreness": 1,
+    "Stress": 1,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL007",
+    "Timestamp": "2023-03-06 7:28",
+    "Fatigue": 2,
+    "Sleep": 2,
+    "Soreness": 3,
+    "Stress": 3,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL007",
+    "Timestamp": "2023-03-07 8:46",
+    "Fatigue": 5,
+    "Sleep": 5,
+    "Soreness": 4,
+    "Stress": 5,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL007",
+    "Timestamp": "2023-03-08 8:39",
+    "Fatigue": 4,
+    "Sleep": 1,
+    "Soreness": 1,
+    "Stress": 5,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL007",
+    "Timestamp": "2023-03-09 8:20",
+    "Fatigue": 2,
+    "Sleep": 5,
+    "Soreness": 5,
+    "Stress": 1,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL007",
+    "Timestamp": "2023-03-10 7:20",
+    "Fatigue": 2,
+    "Sleep": 2,
+    "Soreness": 5,
+    "Stress": 2,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL007",
+    "Timestamp": "2023-03-11 8:22",
+    "Fatigue": 4,
+    "Sleep": 5,
+    "Soreness": 2,
+    "Stress": 1,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL007",
+    "Timestamp": "2023-03-12 8:49",
+    "Fatigue": 3,
+    "Sleep": 3,
+    "Soreness": 3,
+    "Stress": 2,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL007",
+    "Timestamp": "2023-03-13 7:48",
+    "Fatigue": 4,
+    "Sleep": 2,
+    "Soreness": 5,
+    "Stress": 5,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL007",
+    "Timestamp": "2023-03-14 8:34",
+    "Fatigue": 4,
+    "Sleep": 2,
+    "Soreness": 4,
+    "Stress": 3,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL007",
+    "Timestamp": "2023-03-15 7:24",
+    "Fatigue": 4,
+    "Sleep": 3,
+    "Soreness": 5,
+    "Stress": 5,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL007",
+    "Timestamp": "2023-03-16 8:30",
+    "Fatigue": 4,
+    "Sleep": 2,
+    "Soreness": 2,
+    "Stress": 1,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL008",
+    "Timestamp": "2023-03-01 8:40",
+    "Fatigue": 1,
+    "Sleep": 4,
+    "Soreness": 5,
+    "Stress": 1,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL008",
+    "Timestamp": "2023-03-02 8:51",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 2,
+    "Stress": 2,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL008",
+    "Timestamp": "2023-03-03 7:55",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 1,
+    "Stress": 2,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL008",
+    "Timestamp": "2023-03-04 8:40",
+    "Fatigue": 1,
+    "Sleep": 4,
+    "Soreness": 1,
+    "Stress": 1,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL008",
+    "Timestamp": "2023-03-05 7:41",
+    "Fatigue": 2,
+    "Sleep": 1,
+    "Soreness": 3,
+    "Stress": 2,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL008",
+    "Timestamp": "2023-03-06 8:17",
+    "Fatigue": 2,
+    "Sleep": 4,
+    "Soreness": 2,
+    "Stress": 2,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL008",
+    "Timestamp": "2023-03-07 8:21",
+    "Fatigue": 4,
+    "Sleep": 5,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL008",
+    "Timestamp": "2023-03-08 8:24",
+    "Fatigue": 4,
+    "Sleep": 1,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL008",
+    "Timestamp": "2023-03-09 7:55",
+    "Fatigue": 1,
+    "Sleep": 1,
+    "Soreness": 1,
+    "Stress": 1,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL008",
+    "Timestamp": "2023-03-10 7:22",
+    "Fatigue": 5,
+    "Sleep": 4,
+    "Soreness": 1,
+    "Stress": 1,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL008",
+    "Timestamp": "2023-03-11 7:44",
+    "Fatigue": 2,
+    "Sleep": 2,
+    "Soreness": 5,
+    "Stress": 2,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL008",
+    "Timestamp": "2023-03-12 8:53",
+    "Fatigue": 5,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 1,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL008",
+    "Timestamp": "2023-03-13 7:28",
+    "Fatigue": 2,
+    "Sleep": 5,
+    "Soreness": 3,
+    "Stress": 2,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL008",
+    "Timestamp": "2023-03-14 8:11",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 3,
+    "Stress": 5,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL008",
+    "Timestamp": "2023-03-15 7:59",
+    "Fatigue": 5,
+    "Sleep": 5,
+    "Soreness": 2,
+    "Stress": 1,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL008",
+    "Timestamp": "2023-03-16 8:17",
+    "Fatigue": 5,
+    "Sleep": 4,
+    "Soreness": 5,
+    "Stress": 3,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL009",
+    "Timestamp": "2023-03-01 7:38",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL009",
+    "Timestamp": "2023-03-02 8:11",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 3,
+    "Stress": 4,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL009",
+    "Timestamp": "2023-03-03 7:10",
+    "Fatigue": 5,
+    "Sleep": 1,
+    "Soreness": 4,
+    "Stress": 1,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL009",
+    "Timestamp": "2023-03-04 8:53",
+    "Fatigue": 2,
+    "Sleep": 2,
+    "Soreness": 1,
+    "Stress": 5,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL009",
+    "Timestamp": "2023-03-05 7:32",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 4,
+    "Stress": 3,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL009",
+    "Timestamp": "2023-03-06 7:31",
+    "Fatigue": 4,
+    "Sleep": 3,
+    "Soreness": 3,
+    "Stress": 1,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL009",
+    "Timestamp": "2023-03-07 8:32",
+    "Fatigue": 2,
+    "Sleep": 3,
+    "Soreness": 5,
+    "Stress": 1,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL009",
+    "Timestamp": "2023-03-08 7:44",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 3,
+    "Stress": 2,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL009",
+    "Timestamp": "2023-03-09 7:43",
+    "Fatigue": 5,
+    "Sleep": 1,
+    "Soreness": 2,
+    "Stress": 2,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL009",
+    "Timestamp": "2023-03-10 7:23",
+    "Fatigue": 5,
+    "Sleep": 1,
+    "Soreness": 4,
+    "Stress": 2,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL009",
+    "Timestamp": "2023-03-11 8:57",
+    "Fatigue": 4,
+    "Sleep": 3,
+    "Soreness": 5,
+    "Stress": 4,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL009",
+    "Timestamp": "2023-03-12 8:50",
+    "Fatigue": 1,
+    "Sleep": 3,
+    "Soreness": 4,
+    "Stress": 1,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL009",
+    "Timestamp": "2023-03-13 8:59",
+    "Fatigue": 4,
+    "Sleep": 5,
+    "Soreness": 3,
+    "Stress": 3,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL009",
+    "Timestamp": "2023-03-14 7:24",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 5,
+    "Stress": 3,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL009",
+    "Timestamp": "2023-03-15 7:17",
+    "Fatigue": 1,
+    "Sleep": 4,
+    "Soreness": 1,
+    "Stress": 2,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL009",
+    "Timestamp": "2023-03-16 8:47",
+    "Fatigue": 1,
+    "Sleep": 3,
+    "Soreness": 1,
+    "Stress": 4,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL010",
+    "Timestamp": "2023-03-01 8:21",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL010",
+    "Timestamp": "2023-03-02 7:27",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 4,
+    "Stress": 2,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL010",
+    "Timestamp": "2023-03-03 8:50",
+    "Fatigue": 4,
+    "Sleep": 5,
+    "Soreness": 1,
+    "Stress": 2,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL010",
+    "Timestamp": "2023-03-04 8:56",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 4,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL010",
+    "Timestamp": "2023-03-05 7:59",
+    "Fatigue": 3,
+    "Sleep": 3,
+    "Soreness": 1,
+    "Stress": 1,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL010",
+    "Timestamp": "2023-03-06 7:25",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 3,
+    "Stress": 2,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL010",
+    "Timestamp": "2023-03-07 8:32",
+    "Fatigue": 4,
+    "Sleep": 5,
+    "Soreness": 4,
+    "Stress": 5,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL010",
+    "Timestamp": "2023-03-08 8:43",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 2,
+    "Stress": 3,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL010",
+    "Timestamp": "2023-03-09 8:32",
+    "Fatigue": 4,
+    "Sleep": 5,
+    "Soreness": 5,
+    "Stress": 1,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL010",
+    "Timestamp": "2023-03-10 8:15",
+    "Fatigue": 5,
+    "Sleep": 4,
+    "Soreness": 1,
+    "Stress": 5,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL010",
+    "Timestamp": "2023-03-11 7:54",
+    "Fatigue": 1,
+    "Sleep": 4,
+    "Soreness": 3,
+    "Stress": 3,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL010",
+    "Timestamp": "2023-03-12 8:30",
+    "Fatigue": 1,
+    "Sleep": 1,
+    "Soreness": 2,
+    "Stress": 1,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL010",
+    "Timestamp": "2023-03-13 7:17",
+    "Fatigue": 4,
+    "Sleep": 1,
+    "Soreness": 3,
+    "Stress": 1,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL010",
+    "Timestamp": "2023-03-14 7:59",
+    "Fatigue": 5,
+    "Sleep": 1,
+    "Soreness": 1,
+    "Stress": 2,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL010",
+    "Timestamp": "2023-03-15 7:48",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 1,
+    "Stress": 3,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL010",
+    "Timestamp": "2023-03-16 7:16",
+    "Fatigue": 4,
+    "Sleep": 4,
+    "Soreness": 5,
+    "Stress": 2,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL011",
+    "Timestamp": "2023-03-01 8:10",
+    "Fatigue": 2,
+    "Sleep": 2,
+    "Soreness": 3,
+    "Stress": 4,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL011",
+    "Timestamp": "2023-03-02 7:37",
+    "Fatigue": 4,
+    "Sleep": 4,
+    "Soreness": 5,
+    "Stress": 4,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL011",
+    "Timestamp": "2023-03-03 7:31",
+    "Fatigue": 4,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 3,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL011",
+    "Timestamp": "2023-03-04 7:44",
+    "Fatigue": 2,
+    "Sleep": 4,
+    "Soreness": 5,
+    "Stress": 3,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL011",
+    "Timestamp": "2023-03-05 7:21",
+    "Fatigue": 5,
+    "Sleep": 5,
+    "Soreness": 5,
+    "Stress": 3,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL011",
+    "Timestamp": "2023-03-06 7:29",
+    "Fatigue": 1,
+    "Sleep": 3,
+    "Soreness": 1,
+    "Stress": 5,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL011",
+    "Timestamp": "2023-03-07 8:22",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 2,
+    "Stress": 4,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL011",
+    "Timestamp": "2023-03-08 7:44",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 2,
+    "Stress": 1,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL011",
+    "Timestamp": "2023-03-09 7:34",
+    "Fatigue": 4,
+    "Sleep": 3,
+    "Soreness": 1,
+    "Stress": 4,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL011",
+    "Timestamp": "2023-03-10 7:19",
+    "Fatigue": 2,
+    "Sleep": 5,
+    "Soreness": 3,
+    "Stress": 4,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL011",
+    "Timestamp": "2023-03-11 7:33",
+    "Fatigue": 4,
+    "Sleep": 4,
+    "Soreness": 1,
+    "Stress": 2,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL011",
+    "Timestamp": "2023-03-12 7:42",
+    "Fatigue": 2,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 5,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL011",
+    "Timestamp": "2023-03-13 7:48",
+    "Fatigue": 4,
+    "Sleep": 2,
+    "Soreness": 2,
+    "Stress": 4,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL011",
+    "Timestamp": "2023-03-14 7:47",
+    "Fatigue": 3,
+    "Sleep": 2,
+    "Soreness": 1,
+    "Stress": 4,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL011",
+    "Timestamp": "2023-03-15 8:15",
+    "Fatigue": 2,
+    "Sleep": 5,
+    "Soreness": 5,
+    "Stress": 1,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL011",
+    "Timestamp": "2023-03-16 7:43",
+    "Fatigue": 4,
+    "Sleep": 1,
+    "Soreness": 3,
+    "Stress": 1,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL012",
+    "Timestamp": "2023-03-01 7:40",
+    "Fatigue": 2,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 4,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL012",
+    "Timestamp": "2023-03-02 8:58",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 5,
+    "Stress": 4,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL012",
+    "Timestamp": "2023-03-03 8:38",
+    "Fatigue": 3,
+    "Sleep": 2,
+    "Soreness": 3,
+    "Stress": 4,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL012",
+    "Timestamp": "2023-03-04 7:35",
+    "Fatigue": 3,
+    "Sleep": 3,
+    "Soreness": 3,
+    "Stress": 3,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL012",
+    "Timestamp": "2023-03-05 7:30",
+    "Fatigue": 4,
+    "Sleep": 1,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL012",
+    "Timestamp": "2023-03-06 7:26",
+    "Fatigue": 5,
+    "Sleep": 5,
+    "Soreness": 2,
+    "Stress": 2,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL012",
+    "Timestamp": "2023-03-07 8:44",
+    "Fatigue": 4,
+    "Sleep": 2,
+    "Soreness": 4,
+    "Stress": 2,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL012",
+    "Timestamp": "2023-03-08 7:40",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 3,
+    "Stress": 2,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL012",
+    "Timestamp": "2023-03-09 7:46",
+    "Fatigue": 5,
+    "Sleep": 5,
+    "Soreness": 1,
+    "Stress": 5,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL012",
+    "Timestamp": "2023-03-10 7:39",
+    "Fatigue": 3,
+    "Sleep": 5,
+    "Soreness": 4,
+    "Stress": 5,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL012",
+    "Timestamp": "2023-03-11 8:34",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 2,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL012",
+    "Timestamp": "2023-03-12 8:59",
+    "Fatigue": 4,
+    "Sleep": 2,
+    "Soreness": 5,
+    "Stress": 3,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL012",
+    "Timestamp": "2023-03-13 7:16",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 2,
+    "Stress": 4,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL012",
+    "Timestamp": "2023-03-14 8:33",
+    "Fatigue": 1,
+    "Sleep": 1,
+    "Soreness": 2,
+    "Stress": 2,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL012",
+    "Timestamp": "2023-03-15 7:50",
+    "Fatigue": 1,
+    "Sleep": 4,
+    "Soreness": 4,
+    "Stress": 3,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL012",
+    "Timestamp": "2023-03-16 7:41",
+    "Fatigue": 4,
+    "Sleep": 5,
+    "Soreness": 1,
+    "Stress": 4,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL013",
+    "Timestamp": "2023-03-01 8:25",
+    "Fatigue": 5,
+    "Sleep": 4,
+    "Soreness": 2,
+    "Stress": 1,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL013",
+    "Timestamp": "2023-03-02 7:57",
+    "Fatigue": 3,
+    "Sleep": 5,
+    "Soreness": 4,
+    "Stress": 5,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL013",
+    "Timestamp": "2023-03-03 8:52",
+    "Fatigue": 1,
+    "Sleep": 1,
+    "Soreness": 3,
+    "Stress": 4,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL013",
+    "Timestamp": "2023-03-04 8:28",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL013",
+    "Timestamp": "2023-03-05 7:39",
+    "Fatigue": 2,
+    "Sleep": 2,
+    "Soreness": 5,
+    "Stress": 2,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL013",
+    "Timestamp": "2023-03-06 7:31",
+    "Fatigue": 4,
+    "Sleep": 2,
+    "Soreness": 4,
+    "Stress": 2,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL013",
+    "Timestamp": "2023-03-07 8:48",
+    "Fatigue": 5,
+    "Sleep": 4,
+    "Soreness": 3,
+    "Stress": 4,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL013",
+    "Timestamp": "2023-03-08 7:56",
+    "Fatigue": 4,
+    "Sleep": 5,
+    "Soreness": 5,
+    "Stress": 4,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL013",
+    "Timestamp": "2023-03-09 8:39",
+    "Fatigue": 1,
+    "Sleep": 5,
+    "Soreness": 1,
+    "Stress": 1,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL013",
+    "Timestamp": "2023-03-10 8:23",
+    "Fatigue": 1,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 5,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL013",
+    "Timestamp": "2023-03-11 7:21",
+    "Fatigue": 5,
+    "Sleep": 5,
+    "Soreness": 5,
+    "Stress": 5,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL013",
+    "Timestamp": "2023-03-12 8:45",
+    "Fatigue": 3,
+    "Sleep": 5,
+    "Soreness": 1,
+    "Stress": 3,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL013",
+    "Timestamp": "2023-03-13 8:53",
+    "Fatigue": 5,
+    "Sleep": 4,
+    "Soreness": 1,
+    "Stress": 1,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL013",
+    "Timestamp": "2023-03-14 7:31",
+    "Fatigue": 3,
+    "Sleep": 5,
+    "Soreness": 1,
+    "Stress": 5,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL013",
+    "Timestamp": "2023-03-15 8:16",
+    "Fatigue": 2,
+    "Sleep": 4,
+    "Soreness": 3,
+    "Stress": 4,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL013",
+    "Timestamp": "2023-03-16 8:56",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 4,
+    "Stress": 5,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL014",
+    "Timestamp": "2023-03-01 8:37",
+    "Fatigue": 2,
+    "Sleep": 3,
+    "Soreness": 4,
+    "Stress": 5,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL014",
+    "Timestamp": "2023-03-02 8:47",
+    "Fatigue": 4,
+    "Sleep": 2,
+    "Soreness": 3,
+    "Stress": 4,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL014",
+    "Timestamp": "2023-03-03 8:47",
+    "Fatigue": 4,
+    "Sleep": 4,
+    "Soreness": 4,
+    "Stress": 5,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL014",
+    "Timestamp": "2023-03-04 8:20",
+    "Fatigue": 1,
+    "Sleep": 4,
+    "Soreness": 4,
+    "Stress": 1,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL014",
+    "Timestamp": "2023-03-05 7:17",
+    "Fatigue": 1,
+    "Sleep": 1,
+    "Soreness": 2,
+    "Stress": 3,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL014",
+    "Timestamp": "2023-03-06 8:59",
+    "Fatigue": 5,
+    "Sleep": 4,
+    "Soreness": 2,
+    "Stress": 5,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL014",
+    "Timestamp": "2023-03-07 8:19",
+    "Fatigue": 1,
+    "Sleep": 3,
+    "Soreness": 1,
+    "Stress": 1,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL014",
+    "Timestamp": "2023-03-08 8:25",
+    "Fatigue": 5,
+    "Sleep": 2,
+    "Soreness": 1,
+    "Stress": 4,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL014",
+    "Timestamp": "2023-03-09 8:22",
+    "Fatigue": 2,
+    "Sleep": 5,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL014",
+    "Timestamp": "2023-03-10 8:37",
+    "Fatigue": 2,
+    "Sleep": 3,
+    "Soreness": 2,
+    "Stress": 1,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL014",
+    "Timestamp": "2023-03-11 7:29",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 4,
+    "Stress": 5,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL014",
+    "Timestamp": "2023-03-12 7:40",
+    "Fatigue": 1,
+    "Sleep": 1,
+    "Soreness": 2,
+    "Stress": 3,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL014",
+    "Timestamp": "2023-03-13 7:43",
+    "Fatigue": 1,
+    "Sleep": 5,
+    "Soreness": 5,
+    "Stress": 1,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL014",
+    "Timestamp": "2023-03-14 8:55",
+    "Fatigue": 3,
+    "Sleep": 2,
+    "Soreness": 4,
+    "Stress": 2,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL014",
+    "Timestamp": "2023-03-15 8:12",
+    "Fatigue": 5,
+    "Sleep": 2,
+    "Soreness": 2,
+    "Stress": 2,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL014",
+    "Timestamp": "2023-03-16 8:28",
+    "Fatigue": 1,
+    "Sleep": 3,
+    "Soreness": 1,
+    "Stress": 2,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL015",
+    "Timestamp": "2023-03-01 7:23",
+    "Fatigue": 3,
+    "Sleep": 3,
+    "Soreness": 2,
+    "Stress": 3,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL015",
+    "Timestamp": "2023-03-02 7:43",
+    "Fatigue": 1,
+    "Sleep": 4,
+    "Soreness": 5,
+    "Stress": 2,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL015",
+    "Timestamp": "2023-03-03 8:59",
+    "Fatigue": 3,
+    "Sleep": 4,
+    "Soreness": 4,
+    "Stress": 1,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL015",
+    "Timestamp": "2023-03-04 7:34",
+    "Fatigue": 1,
+    "Sleep": 1,
+    "Soreness": 2,
+    "Stress": 5,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL015",
+    "Timestamp": "2023-03-05 7:42",
+    "Fatigue": 5,
+    "Sleep": 4,
+    "Soreness": 3,
+    "Stress": 2,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL015",
+    "Timestamp": "2023-03-06 7:11",
+    "Fatigue": 3,
+    "Sleep": 3,
+    "Soreness": 2,
+    "Stress": 5,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL015",
+    "Timestamp": "2023-03-07 8:43",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 4,
+    "Stress": 3,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL015",
+    "Timestamp": "2023-03-08 7:43",
+    "Fatigue": 2,
+    "Sleep": 4,
+    "Soreness": 5,
+    "Stress": 1,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL015",
+    "Timestamp": "2023-03-09 7:58",
+    "Fatigue": 1,
+    "Sleep": 3,
+    "Soreness": 4,
+    "Stress": 2,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL015",
+    "Timestamp": "2023-03-10 8:18",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 2,
+    "Stress": 5,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL015",
+    "Timestamp": "2023-03-11 8:48",
+    "Fatigue": 4,
+    "Sleep": 2,
+    "Soreness": 2,
+    "Stress": 3,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL015",
+    "Timestamp": "2023-03-12 7:16",
+    "Fatigue": 1,
+    "Sleep": 3,
+    "Soreness": 5,
+    "Stress": 3,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL015",
+    "Timestamp": "2023-03-13 7:29",
+    "Fatigue": 2,
+    "Sleep": 5,
+    "Soreness": 4,
+    "Stress": 1,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL015",
+    "Timestamp": "2023-03-14 7:40",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 4,
+    "Stress": 2,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL015",
+    "Timestamp": "2023-03-15 7:52",
+    "Fatigue": 5,
+    "Sleep": 2,
+    "Soreness": 5,
+    "Stress": 2,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL015",
+    "Timestamp": "2023-03-16 8:33",
+    "Fatigue": 1,
+    "Sleep": 5,
+    "Soreness": 1,
+    "Stress": 1,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL016",
+    "Timestamp": "2023-03-01 8:29",
+    "Fatigue": 1,
+    "Sleep": 4,
+    "Soreness": 4,
+    "Stress": 2,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL016",
+    "Timestamp": "2023-03-02 7:54",
+    "Fatigue": 4,
+    "Sleep": 2,
+    "Soreness": 4,
+    "Stress": 3,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL016",
+    "Timestamp": "2023-03-03 7:38",
+    "Fatigue": 3,
+    "Sleep": 5,
+    "Soreness": 2,
+    "Stress": 3,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL016",
+    "Timestamp": "2023-03-04 8:17",
+    "Fatigue": 5,
+    "Sleep": 2,
+    "Soreness": 4,
+    "Stress": 2,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL016",
+    "Timestamp": "2023-03-05 7:18",
+    "Fatigue": 1,
+    "Sleep": 1,
+    "Soreness": 1,
+    "Stress": 5,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL016",
+    "Timestamp": "2023-03-06 7:38",
+    "Fatigue": 5,
+    "Sleep": 5,
+    "Soreness": 1,
+    "Stress": 2,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL016",
+    "Timestamp": "2023-03-07 7:17",
+    "Fatigue": 2,
+    "Sleep": 3,
+    "Soreness": 1,
+    "Stress": 5,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL016",
+    "Timestamp": "2023-03-08 8:18",
+    "Fatigue": 4,
+    "Sleep": 5,
+    "Soreness": 3,
+    "Stress": 1,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL016",
+    "Timestamp": "2023-03-09 7:39",
+    "Fatigue": 2,
+    "Sleep": 2,
+    "Soreness": 5,
+    "Stress": 2,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL016",
+    "Timestamp": "2023-03-10 8:23",
+    "Fatigue": 4,
+    "Sleep": 2,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL016",
+    "Timestamp": "2023-03-11 7:49",
+    "Fatigue": 3,
+    "Sleep": 3,
+    "Soreness": 5,
+    "Stress": 4,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL016",
+    "Timestamp": "2023-03-12 7:42",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 3,
+    "Stress": 4,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL016",
+    "Timestamp": "2023-03-13 7:18",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 2,
+    "Stress": 4,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL016",
+    "Timestamp": "2023-03-14 8:27",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 4,
+    "Stress": 5,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL016",
+    "Timestamp": "2023-03-15 8:52",
+    "Fatigue": 5,
+    "Sleep": 1,
+    "Soreness": 4,
+    "Stress": 2,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL016",
+    "Timestamp": "2023-03-16 8:57",
+    "Fatigue": 1,
+    "Sleep": 5,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL017",
+    "Timestamp": "2023-03-01 7:31",
+    "Fatigue": 4,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 1,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL017",
+    "Timestamp": "2023-03-02 7:18",
+    "Fatigue": 4,
+    "Sleep": 2,
+    "Soreness": 4,
+    "Stress": 2,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL017",
+    "Timestamp": "2023-03-03 7:10",
+    "Fatigue": 1,
+    "Sleep": 1,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL017",
+    "Timestamp": "2023-03-04 7:28",
+    "Fatigue": 2,
+    "Sleep": 5,
+    "Soreness": 1,
+    "Stress": 3,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL017",
+    "Timestamp": "2023-03-05 8:35",
+    "Fatigue": 2,
+    "Sleep": 5,
+    "Soreness": 1,
+    "Stress": 1,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL017",
+    "Timestamp": "2023-03-06 8:59",
+    "Fatigue": 3,
+    "Sleep": 5,
+    "Soreness": 2,
+    "Stress": 1,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL017",
+    "Timestamp": "2023-03-07 8:13",
+    "Fatigue": 3,
+    "Sleep": 2,
+    "Soreness": 2,
+    "Stress": 5,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL017",
+    "Timestamp": "2023-03-08 7:19",
+    "Fatigue": 4,
+    "Sleep": 2,
+    "Soreness": 1,
+    "Stress": 3,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL017",
+    "Timestamp": "2023-03-09 8:34",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 2,
+    "Stress": 5,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL017",
+    "Timestamp": "2023-03-10 8:38",
+    "Fatigue": 5,
+    "Sleep": 5,
+    "Soreness": 5,
+    "Stress": 4,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL017",
+    "Timestamp": "2023-03-11 8:11",
+    "Fatigue": 1,
+    "Sleep": 5,
+    "Soreness": 4,
+    "Stress": 3,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL017",
+    "Timestamp": "2023-03-12 8:27",
+    "Fatigue": 3,
+    "Sleep": 3,
+    "Soreness": 4,
+    "Stress": 2,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL017",
+    "Timestamp": "2023-03-13 7:31",
+    "Fatigue": 5,
+    "Sleep": 2,
+    "Soreness": 2,
+    "Stress": 2,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL017",
+    "Timestamp": "2023-03-14 8:43",
+    "Fatigue": 2,
+    "Sleep": 4,
+    "Soreness": 3,
+    "Stress": 5,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL017",
+    "Timestamp": "2023-03-15 7:19",
+    "Fatigue": 3,
+    "Sleep": 5,
+    "Soreness": 2,
+    "Stress": 3,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL017",
+    "Timestamp": "2023-03-16 8:19",
+    "Fatigue": 1,
+    "Sleep": 5,
+    "Soreness": 5,
+    "Stress": 3,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL018",
+    "Timestamp": "2023-03-01 8:49",
+    "Fatigue": 3,
+    "Sleep": 2,
+    "Soreness": 2,
+    "Stress": 4,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL018",
+    "Timestamp": "2023-03-02 7:31",
+    "Fatigue": 1,
+    "Sleep": 1,
+    "Soreness": 3,
+    "Stress": 4,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL018",
+    "Timestamp": "2023-03-03 8:22",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL018",
+    "Timestamp": "2023-03-04 7:15",
+    "Fatigue": 1,
+    "Sleep": 4,
+    "Soreness": 1,
+    "Stress": 1,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL018",
+    "Timestamp": "2023-03-05 8:56",
+    "Fatigue": 5,
+    "Sleep": 4,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL018",
+    "Timestamp": "2023-03-06 7:11",
+    "Fatigue": 4,
+    "Sleep": 4,
+    "Soreness": 5,
+    "Stress": 3,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL018",
+    "Timestamp": "2023-03-07 8:28",
+    "Fatigue": 2,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 5,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL018",
+    "Timestamp": "2023-03-08 8:32",
+    "Fatigue": 3,
+    "Sleep": 4,
+    "Soreness": 3,
+    "Stress": 3,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL018",
+    "Timestamp": "2023-03-09 7:25",
+    "Fatigue": 3,
+    "Sleep": 5,
+    "Soreness": 3,
+    "Stress": 5,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL018",
+    "Timestamp": "2023-03-10 7:12",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 4,
+    "Stress": 2,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL018",
+    "Timestamp": "2023-03-11 7:58",
+    "Fatigue": 1,
+    "Sleep": 3,
+    "Soreness": 4,
+    "Stress": 2,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL018",
+    "Timestamp": "2023-03-12 8:54",
+    "Fatigue": 4,
+    "Sleep": 2,
+    "Soreness": 3,
+    "Stress": 1,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL018",
+    "Timestamp": "2023-03-13 7:27",
+    "Fatigue": 1,
+    "Sleep": 4,
+    "Soreness": 3,
+    "Stress": 5,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL018",
+    "Timestamp": "2023-03-14 8:26",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 2,
+    "Stress": 1,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL018",
+    "Timestamp": "2023-03-15 8:56",
+    "Fatigue": 1,
+    "Sleep": 5,
+    "Soreness": 4,
+    "Stress": 4,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL018",
+    "Timestamp": "2023-03-16 7:56",
+    "Fatigue": 5,
+    "Sleep": 2,
+    "Soreness": 1,
+    "Stress": 2,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL019",
+    "Timestamp": "2023-03-01 7:32",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 5,
+    "Stress": 5,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL019",
+    "Timestamp": "2023-03-02 7:21",
+    "Fatigue": 5,
+    "Sleep": 4,
+    "Soreness": 1,
+    "Stress": 5,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL019",
+    "Timestamp": "2023-03-03 8:47",
+    "Fatigue": 2,
+    "Sleep": 2,
+    "Soreness": 5,
+    "Stress": 4,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL019",
+    "Timestamp": "2023-03-04 8:37",
+    "Fatigue": 2,
+    "Sleep": 3,
+    "Soreness": 5,
+    "Stress": 1,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL019",
+    "Timestamp": "2023-03-05 7:12",
+    "Fatigue": 2,
+    "Sleep": 3,
+    "Soreness": 5,
+    "Stress": 4,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL019",
+    "Timestamp": "2023-03-06 8:32",
+    "Fatigue": 5,
+    "Sleep": 5,
+    "Soreness": 2,
+    "Stress": 5,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL019",
+    "Timestamp": "2023-03-07 8:14",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 3,
+    "Stress": 2,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL019",
+    "Timestamp": "2023-03-08 8:23",
+    "Fatigue": 2,
+    "Sleep": 5,
+    "Soreness": 2,
+    "Stress": 5,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL019",
+    "Timestamp": "2023-03-09 8:44",
+    "Fatigue": 4,
+    "Sleep": 1,
+    "Soreness": 2,
+    "Stress": 1,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL019",
+    "Timestamp": "2023-03-10 8:59",
+    "Fatigue": 2,
+    "Sleep": 2,
+    "Soreness": 3,
+    "Stress": 5,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL019",
+    "Timestamp": "2023-03-11 8:49",
+    "Fatigue": 3,
+    "Sleep": 4,
+    "Soreness": 4,
+    "Stress": 2,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL019",
+    "Timestamp": "2023-03-12 8:27",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 2,
+    "Stress": 3,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL019",
+    "Timestamp": "2023-03-13 7:27",
+    "Fatigue": 2,
+    "Sleep": 3,
+    "Soreness": 1,
+    "Stress": 5,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL019",
+    "Timestamp": "2023-03-14 8:57",
+    "Fatigue": 3,
+    "Sleep": 4,
+    "Soreness": 1,
+    "Stress": 5,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL019",
+    "Timestamp": "2023-03-15 7:48",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 1,
+    "Stress": 4,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL019",
+    "Timestamp": "2023-03-16 7:43",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 2,
+    "Stress": 5,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL020",
+    "Timestamp": "2023-03-01 7:33",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 3,
+    "Stress": 2,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL020",
+    "Timestamp": "2023-03-02 8:28",
+    "Fatigue": 1,
+    "Sleep": 1,
+    "Soreness": 3,
+    "Stress": 2,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL020",
+    "Timestamp": "2023-03-03 7:16",
+    "Fatigue": 5,
+    "Sleep": 2,
+    "Soreness": 5,
+    "Stress": 4,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL020",
+    "Timestamp": "2023-03-04 7:13",
+    "Fatigue": 5,
+    "Sleep": 2,
+    "Soreness": 3,
+    "Stress": 3,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL020",
+    "Timestamp": "2023-03-05 8:15",
+    "Fatigue": 3,
+    "Sleep": 3,
+    "Soreness": 3,
+    "Stress": 4,
+    "Mood": 4
+  },
+  {
+    "PlayerID": "PL020",
+    "Timestamp": "2023-03-06 7:42",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 4,
+    "Stress": 2,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL020",
+    "Timestamp": "2023-03-07 7:45",
+    "Fatigue": 4,
+    "Sleep": 3,
+    "Soreness": 3,
+    "Stress": 1,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL020",
+    "Timestamp": "2023-03-08 8:32",
+    "Fatigue": 5,
+    "Sleep": 1,
+    "Soreness": 3,
+    "Stress": 2,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL020",
+    "Timestamp": "2023-03-09 7:39",
+    "Fatigue": 3,
+    "Sleep": 5,
+    "Soreness": 1,
+    "Stress": 5,
+    "Mood": 1
+  },
+  {
+    "PlayerID": "PL020",
+    "Timestamp": "2023-03-10 8:42",
+    "Fatigue": 3,
+    "Sleep": 3,
+    "Soreness": 1,
+    "Stress": 1,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL020",
+    "Timestamp": "2023-03-11 7:45",
+    "Fatigue": 2,
+    "Sleep": 5,
+    "Soreness": 5,
+    "Stress": 1,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL020",
+    "Timestamp": "2023-03-12 7:38",
+    "Fatigue": 5,
+    "Sleep": 3,
+    "Soreness": 4,
+    "Stress": 1,
+    "Mood": 5
+  },
+  {
+    "PlayerID": "PL020",
+    "Timestamp": "2023-03-13 8:31",
+    "Fatigue": 2,
+    "Sleep": 3,
+    "Soreness": 2,
+    "Stress": 1,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL020",
+    "Timestamp": "2023-03-14 7:32",
+    "Fatigue": 2,
+    "Sleep": 5,
+    "Soreness": 4,
+    "Stress": 3,
+    "Mood": 3
+  },
+  {
+    "PlayerID": "PL020",
+    "Timestamp": "2023-03-15 7:57",
+    "Fatigue": 1,
+    "Sleep": 2,
+    "Soreness": 2,
+    "Stress": 5,
+    "Mood": 2
+  },
+  {
+    "PlayerID": "PL020",
+    "Timestamp": "2023-03-16 7:58",
+    "Fatigue": 3,
+    "Sleep": 1,
+    "Soreness": 5,
+    "Stress": 4,
+    "Mood": 3
+  }
+]
