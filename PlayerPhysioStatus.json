@@ -1,0 +1,327 @@
+[
+  {
+    "PlayerID": "PL001",
+    "Data": [
+      {
+        "Timestamp": "2023-03-01 20:00:00",
+        "IsInjured": 0,
+        "InjuryLocation": null,
+        "Weight": 73,
+        "BloodOxygen": 98,
+        "BPHigh": 125,
+        "BPLow": 80,
+        "CK": 400,
+        "HRBPM": 80
+      },
+      {
+        "Timestamp": "2023-03-02 20:00:00",
+        "IsInjured": 0,
+        "InjuryLocation": null,
+        "Weight": 72,
+        "BloodOxygen": 97,
+        "BPHigh": 124,
+        "BPLow": 82,
+        "CK": 450,
+        "HRBPM": 82
+      },
+      {
+        "Timestamp": "2023-03-03 20:00:00",
+        "IsInjured": 0,
+        "InjuryLocation": null,
+        "Weight": 73,
+        "BloodOxygen": 96,
+        "BPHigh": 128,
+        "BPLow": 74,
+        "CK": 350,
+        "HRBPM": 78
+      },
+      {
+        "Timestamp": "2023-03-04 20:00:00",
+        "IsInjured": 0,
+        "InjuryLocation": null,
+        "Weight": 71,
+        "BloodOxygen": 99,
+        "BPHigh": 122,
+        "BPLow": 78,
+        "CK": 500,
+        "HRBPM": 84
+      },
+      {
+        "Timestamp": "2023-03-05 20:00:00",
+        "IsInjured": 0,
+        "InjuryLocation": null,
+        "Weight": 72,
+        "BloodOxygen": 97,
+        "BPHigh": 127,
+        "BPLow": 81,
+        "CK": 420,
+        "HRBPM": 81
+      },
+      {
+        "Timestamp": "2023-03-06 20:00:00",
+        "IsInjured": 0,
+        "InjuryLocation": null,
+        "Weight": 74,
+        "BloodOxygen": 95,
+        "BPHigh": 120,
+        "BPLow": 76,
+        "CK": 380,
+        "HRBPM": 79
+      },
+      {
+        "Timestamp": "2023-03-07 20:00:00",
+        "IsInjured": 1,
+        "InjuryLocation": "LEFT KNEE",
+        "Weight": 72,
+        "BloodOxygen": 94,
+        "BPHigh": 126,
+        "BPLow": 72,
+        "CK": 300,
+        "HRBPM": 76
+      },
+      {
+        "Timestamp": "2023-03-08 20:00:00",
+        "IsInjured": 0,
+        "InjuryLocation": null,
+        "Weight": 73,
+        "BloodOxygen": 98,
+        "BPHigh": 125,
+        "BPLow": 80,
+        "CK": 400,
+        "HRBPM": 80
+      },
+      {
+        "Timestamp": "2023-03-09 20:00:00",
+        "IsInjured": 0,
+        "InjuryLocation": null,
+        "Weight": 72,
+        "BloodOxygen": 97,
+        "BPHigh": 124,
+        "BPLow": 82,
+        "CK": 450,
+        "HRBPM": 82
+      },
+      {
+        "Timestamp": "2023-03-10 20:00:00",
+        "IsInjured": 0,
+        "InjuryLocation": null,
+        "Weight": 73,
+        "BloodOxygen": 96,
+        "BPHigh": 128,
+        "BPLow": 74,
+        "CK": 350,
+        "HRBPM": 78
+      },
+      {
+        "Timestamp": "2023-03-11 20:00:00",
+        "IsInjured": 0,
+        "InjuryLocation": null,
+        "Weight": 71,
+        "BloodOxygen": 99,
+        "BPHigh": 122,
+        "BPLow": 78,
+        "CK": 500,
+        "HRBPM": 84
+      },
+      {
+        "Timestamp": "2023-03-12 20:00:00",
+        "IsInjured": 0,
+        "InjuryLocation": null,
+        "Weight": 72,
+        "BloodOxygen": 97,
+        "BPHigh": 127,
+        "BPLow": 81,
+        "CK": 420,
+        "HRBPM": 81
+      },
+      {
+        "Timestamp": "2023-03-13 20:00:00",
+        "IsInjured": 0,
+        "InjuryLocation": null,
+        "Weight": 74,
+        "BloodOxygen": 95,
+        "BPHigh": 120,
+        "BPLow": 76,
+        "CK": 380,
+        "HRBPM": 79
+      },
+      {
+        "Timestamp": "2023-03-14 20:00:00",
+        "IsInjured": 1,
+        "InjuryLocation": "LEFT KNEE",
+        "Weight": 72,
+        "BloodOxygen": 94,
+        "BPHigh": 126,
+        "BPLow": 72,
+        "CK": 300,
+        "HRBPM": 76
+      }
+      {
+        "Timestamp": "2023-03-15 20:00:00",
+        "IsInjured": 1,
+        "InjuryLocation": "LEFT KNEE",
+        "Weight": 72,
+        "BloodOxygen": 94,
+        "BPHigh": 126,
+        "BPLow": 72,
+        "CK": 300,
+        "HRBPM": 76
+      }
+    ]
+  },
+  {
+    "PlayerID": "PL002",
+    "Data": [
+      {
+        "Timestamp": "2023-03-01 20:00:00",
+        "IsInjured": 1,
+        "InjuryLocation": "LEFT KNEE",
+        "Weight": 62,
+        "BloodOxygen": 93,
+        "BPHigh": 128,
+        "BPLow": 74,
+  },
+  {
+    "Timestamp": "2023-03-02 20:00:00",
+        "IsInjured": 1,
+        "InjuryLocation": "LEFT KNEE",
+    "Weight": 63,
+    "BloodOxygen": 92,
+    "BPHigh": 130,
+    "BPLow": 66,
+    "CK": 35,
+    "HRBPM": 65
+  },
+  {
+    "Timestamp": "2023-03-03 20:00:00",
+        "IsInjured": 1,
+        "InjuryLocation": "LEFT KNEE",
+    "Weight": 64,
+    "BloodOxygen": 94,
+    "BPHigh": 126,
+    "BPLow": 70,
+    "CK": 50,
+    "HRBPM": 68
+  },
+  {
+    "Timestamp": "2023-03-04 20:00:00",
+        "IsInjured": 1,
+        "InjuryLocation": "LEFT KNEE",
+    "Weight": 63,
+    "BloodOxygen": 96,
+    "BPHigh": 123,
+    "BPLow": 76,
+    "CK": 40,
+    "HRBPM": 70
+  },
+  {
+    "Timestamp": "2023-03-05 20:00:00",
+    "IsInjured": 0,
+    "InjuryLocation": null,
+    "Weight": 64,
+    "BloodOxygen": 95,
+    "BPHigh": 129,
+    "BPLow": 72,
+    "CK": 60,
+    "HRBPM": 72
+  },
+  {
+    "Timestamp": "2023-03-06 20:00:00",
+    "IsInjured": 0,
+    "InjuryLocation": null,
+    "Weight": 63,
+    "BloodOxygen": 97,
+    "BPHigh": 121,
+    "BPLow": 78,
+    "CK": 55,
+    "HRBPM": 73
+  },
+  {
+    "Timestamp": "2023-03-07 20:00:00",
+    "IsInjured": 0,
+    "InjuryLocation": null,
+    "Weight": 64,
+    "BloodOxygen": 94,
+    "BPHigh": 127,
+    "BPLow": 75,
+    "CK": 45,
+    "HRBPM": 69
+  }
+  {
+    "Timestamp": "2023-03-08 20:00:00",
+    "IsInjured": 0,
+    "InjuryLocation": null,
+    "Weight": 64,
+    "BloodOxygen": 94,
+    "BPHigh": 127,
+    "BPLow": 75,
+    "CK": 45,
+    "HRBPM": 69
+  }
+  {
+    "Timestamp": "2023-03-09 20:00:00",
+    "IsInjured": 0,
+    "InjuryLocation": null,
+    "Weight": 64,
+    "BloodOxygen": 94,
+    "BPHigh": 127,
+    "BPLow": 75,
+    "CK": 45,
+    "HRBPM": 69
+  }
+  {
+    "Timestamp": "2023-03-10 20:00:00",
+    "IsInjured": 0,
+    "InjuryLocation": null,
+    "Weight": 64,
+    "BloodOxygen": 94,
+    "BPHigh": 127,
+    "BPLow": 75,
+    "CK": 45,
+    "HRBPM": 69
+  }
+  {
+    "Timestamp": "2023-03-11 20:00:00",
+    "IsInjured": 0,
+    "InjuryLocation": null,
+    "Weight": 64,
+    "BloodOxygen": 94,
+    "BPHigh": 127,
+    "BPLow": 75,
+    "CK": 45,
+    "HRBPM": 69
+  }
+  {
+    "Timestamp": "2023-03-12 20:00:00",
+    "IsInjured": 0,
+    "InjuryLocation": null,
+    "Weight": 64,
+    "BloodOxygen": 94,
+    "BPHigh": 127,
+    "BPLow": 75,
+    "CK": 45,
+    "HRBPM": 69
+  }
+  {
+    "Timestamp": "2023-03-13 20:00:00",
+    "IsInjured": 0,
+    "InjuryLocation": null,
+    "Weight": 64,
+    "BloodOxygen": 94,
+    "BPHigh": 127,
+    "BPLow": 75,
+    "CK": 45,
+    "HRBPM": 69
+  }
+  {
+    "Timestamp": "2023-03-14 20:00:00",
+    "IsInjured": 0,
+    "InjuryLocation": null,
+    "Weight": 64,
+    "BloodOxygen": 94,
+    "BPHigh": 127,
+    "BPLow": 75,
+    "CK": 45,
+    "HRBPM": 69
+  }
+]
