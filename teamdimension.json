@@ -1,0 +1,53 @@
+[
+  {
+    "TeamID": "TID001",
+    "TeamName": "Manchester United F.C.",
+    "Country": "England"
+  },
+  {
+    "TeamID": "TID002",
+    "TeamName": "Liverpool F.C.",
+    "Country": "England"
+  },
+  {
+    "TeamID": "TID003",
+    "TeamName": "Manchester City F.C.",
+    "Country": "England"
+  },
+  {
+    "TeamID": "TID004",
+    "TeamName": "Chelsea F.C.",
+    "Country": "England"
+  },
+  {
+    "TeamID": "TID005",
+    "TeamName": "Arsenal F.C.",
+    "Country": "England"
+  },
+  {
+    "TeamID": "TID006",
+    "TeamName": "Tottenham Hotspur F.C.",
+    "Country": "England"
+  },
+  {
+    "TeamID": "TID007",
+    "TeamName": "Leicester City F.C.",
+    "Country": "England"
+  },
+  {
+    "TeamID": "TID008",
+    "TeamName": "West Ham United F.C.",
+    "Country": "England"
+  },
+  {
+    "TeamID": "TID009",
+    "TeamName": "Everton F.C.",
+    "Country": "England"
+  },
+  {
+    "TeamID": "TID010",
+    "TeamName": "Southampton F.C.",
+    "Country": "England"
+  }
+]
+ 
